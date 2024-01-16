@@ -9,8 +9,8 @@ export default function CartProvider({ children }: { children: ReactNode }) {
       mode="subscription"
       cartMode="client-only"
       stripe={process.env.NEXT_PUBLIC_STRIPE_KEY as string}
-      successUrl="https://commerce-next-yt.vercel.app/stripe/success"
-      cancelUrl="https://commerce-next-yt.vercel.app/stripe/error"
+      successUrl="https://adidad-ecommerce.vercel.app/stripe/success"
+      cancelUrl="https://adidad-ecommerce.vercel.app/stripe/error"
       currency="USD"
       billingAddressCollection={false}
       shouldPersist={true}
