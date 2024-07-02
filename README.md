@@ -17,6 +17,6 @@ This is an Adidas ecommerce website built with Next.js (React framework), TypeSc
 - Stripe: Payment processing platform for securely handling online payments
 
 
-Project Link: [Adidas Ecommerce](https://adidad-ecommerce.vercel.app)
+Project Link: [Adidas Ecommerce](https://apple-srore.netlify.app)
 
 For setup instructions and more details,You can learn more in the [Create Next App documentation](https://nextjs.org/docs/pages/api-reference/create-next-app).
