@@ -19,4 +19,4 @@ This is an Adidas ecommerce website built with Next.js (React framework), TypeSc
 
 Project Link: [Adidas Ecommerce](https://adidad-ecommerce.vercel.app)
 
-For setup instructions and more details,You can learn more in the [Create Vite App documentation](https://nextjs.org/docs/pages/api-reference/create-next-app).
+For setup instructions and more details,You can learn more in the [Create Next App documentation](https://nextjs.org/docs/pages/api-reference/create-next-app).
